@@ -1,2 +1,2 @@
-# Uso-de-Pandas-con-SQLite
-El propósito de este proyecto es mostrar como se puede trabajar en Python utilizando SQLite mediante su libreria Pandas
+# Py9 Uso-de-Pandas-con-SQLite
+El propósito de este proyecto es mostrar como se puede trabajar en Python utilizando SQLite mediante su libreria Pandas. Para ello se utiliza la base de datos que entrega la central nacional de inteligencia (CIA) perteneciente a Los Estados Unidos, documento que acopia un gran numero de inofrmación referente a los diversos paises. La base de datos puede ser descargada aqui la referencia de las tablas en la pagina oficial de la CIA. 
